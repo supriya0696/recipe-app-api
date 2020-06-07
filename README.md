@@ -1,2 +1,2 @@
-# recipe-app-api
-Receipe app-API
+# Profiles REST API
+Profiles REST API Course code.
